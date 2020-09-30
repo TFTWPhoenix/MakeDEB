@@ -1,2 +1,16 @@
 # MakeDEB
 A command line utility to generate deb file folders!
+
+### How to
+
+Step 1: Get your executable ready!
+
+Step 2: Type `mkdeb` in terminal and hit enter.
+
+Step 3: Follow the prompts.
+
+Step 4: Type `dpkg-deb --build dtemp` in terminal and hit enter.
+
+Step 5: Rename your dtemp.deb to something like <program>_<version>_<architecture>.deb.
+ 
+(Remember to install `mkdeb` first!)
