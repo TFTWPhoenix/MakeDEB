@@ -11,6 +11,6 @@ Step 3: Follow the prompts.
 
 Step 4: Type `dpkg-deb --build dtemp` in terminal and hit enter.
 
-Step 5: Rename your dtemp.deb to something like <program>_<version>_<architecture>.deb.
+Step 5: Rename your dtemp.deb to something like example_1.0_amd64.deb.
  
 (Remember to install `mkdeb` first!)
