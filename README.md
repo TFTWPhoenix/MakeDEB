@@ -1,6 +1,10 @@
 # MakeDEB
 A command line utility to generate deb file folders!
 
+### Notice
+
+The .NET Core runtime is required for this program.
+
 ### How to
 
 Step 1: Get your executable ready!
